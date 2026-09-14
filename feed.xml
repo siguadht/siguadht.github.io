@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>千泷 · 保持热忱与希望，一起奔向远方</title>
+  <link>https://siguadht.github.io/</link>
+  <description>千泷的个人主页 · 记录、思考与分享</description>
+  <language>zh-CN</language>
+  <atom:link href="https://siguadht.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI 写歌越来越容易，为什么下载还要算次数？</title>
+    <link>https://mp.weixin.qq.com/s/pArf3HcNRiE6EMCwJGoKOg</link>
+    <guid>https://mp.weixin.qq.com/s/pArf3HcNRiE6EMCwJGoKOg</guid>
+    <pubDate>Sun, 13 Sep 2026 08:00:00 +0800</pubDate>
+    <description><![CDATA[Suno 在 9 月发布了新一代 AI 音乐模型 v6。你能用文字改动一首歌的局部，也能拿图片、视频或一段录音给它参考。做歌的办法多了，把歌下载到电脑上的规则却……]]></description>
+  </item>
+  <item>
+    <title>GPT-6 Astra 的思维链更难监控，AI 产品该信哪一份记录</title>
+    <link>https://mp.weixin.qq.com/s/6_Wc8fhjUE0uchZ9kbGVXA</link>
+    <guid>https://mp.weixin.qq.com/s/6_Wc8fhjUE0uchZ9kbGVXA</guid>
+    <pubDate>Sat, 05 Sep 2026 08:00:00 +0800</pubDate>
+    <description><![CDATA[GPT-6 Astra 的系统卡有一百多页。前面都还算熟悉，模型更强了，更少越权，遇到 Auto-review 拒绝也更老实。读到监控那一节，事情开始不对劲。]]></description>
+  </item>
+  <item>
+    <title>机器人开始像手机安装应用一样下载新动作</title>
+    <link>https://mp.weixin.qq.com/s/xnU9vuzfoZP4QjJZatmSVA</link>
+    <guid>https://mp.weixin.qq.com/s/xnU9vuzfoZP4QjJZatmSVA</guid>
+    <pubDate>Wed, 02 Sep 2026 08:00:00 +0800</pubDate>
+    <description><![CDATA[前段时间 Microduck 发布了一款售价 399 美元的双足机器人。出于好奇我便把 Microduck 的产品页和代码文档翻了一遍。它身高二十五厘米，重量不到八……]]></description>
+  </item>
+</channel>
+</rss>

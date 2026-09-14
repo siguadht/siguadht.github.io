@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# 原始上传文件（已整理进 image/ 目录，无需提交）
+微信图片_*.jpg
+
+# 旧版样式（当前使用 css/site.css）
+/style.css
