@@ -7,9 +7,9 @@
 ## 关于本站
 
 - 纯静态站点，无构建步骤，直接托管在 GitHub Pages
-- 黑白极简风格 + 橙色点缀，支持深色 / 浅色主题（跟随系统）
-- 响应式布局，适配桌面与移动端
-- 侧边栏支持文章关键词搜索（纯前端实现）
+- 浅色工作台布局，固定侧边导航、页面切换动效与响应式移动端菜单
+- 项目卡片链接到 GitHub 仓库，文章卡片链接到微信公众号原文
+- 保留已有的 `blog.html`、`essay.html`、`project.html`、`product.html`、`about.html` 页面地址
 
 ## 本地预览
 
@@ -30,7 +30,7 @@ python3 -m http.server 8000
 ├── about.html       关于
 ├── 404.html         404 页面
 ├── css/site.css     样式
-├── script.js        侧边栏搜索
+├── script.js        页面内容与导航交互
 ├── feed.xml         RSS 订阅源
 ├── sitemap.xml      站点地图
 ├── robots.txt       搜索引擎规则
