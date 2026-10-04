@@ -1,4 +1,4 @@
-# 千泷 · 个人主页
+# 张骏 · 个人主页
 
 保持热忱与希望，一起奔向远方。
 
@@ -34,8 +34,7 @@ python3 -m http.server 8000
 ├── feed.xml         RSS 订阅源
 ├── sitemap.xml      站点地图
 ├── robots.txt       搜索引擎规则
-├── favicon.png      网站图标
-├── apple-touch-icon.png  移动端图标
+├── favicon.svg      网站图标
 └── image/           图片资源（头像、微信二维码）
 ```
 
