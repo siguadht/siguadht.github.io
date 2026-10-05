@@ -10,7 +10,8 @@ const projects = [
   {name:'拍拍搭',category:'AI 产品探索',description:'可交互的 AI 空间软装设计演示。',tags:['AI 产品','空间设计','Python'],url:'https://github.com/siguadht/paipada',group:'ai'},
   {name:'演练 AI 销售教练',category:'AI 产品探索',description:'双角色销售情景练习，包含实时语音、反馈与场景训练。',tags:['Agent','语音交互','销售训练'],url:'https://github.com/siguadht/yanlian-ai-sales-coach',group:'ai'},
   {name:'造物坊',category:'AI 产品探索',description:'从想法到交付的 AI 工作台，集成 Bot、会话任务与工作区文件。',tags:['AI 工作台','Bot','Rust'],url:'https://github.com/siguadht/zaowufang',group:'ai'},
-  {name:'课程笔记整理 Skill',category:'开源效率工具',description:'整合课程材料；确认大纲后生成 HTML 笔记，并同步飞书文档。',tags:['Codex Skill','知识整理','Python'],url:'https://github.com/siguadht/course-notes-organizer',group:'tools'}
+  {name:'课程笔记整理 Skill',category:'开源效率工具',description:'整合课程材料；确认大纲后生成 HTML 笔记，并同步飞书文档。',tags:['Codex Skill','知识整理','Python'],url:'https://github.com/siguadht/course-notes-organizer',group:'tools'},
+  {name:'简历包装 Skill',category:'开源效率工具',description:'根据真实经历与目标岗位梳理简历，核对成果口径，并输出适合求职方向的内容。',tags:['Codex Skill','简历优化','求职材料'],url:'https://github.com/siguadht/resume-packager',group:'tools'}
 ];
 const articles = [
   {name:'Manus 2.0、Cue 和 Muse 刚发布，普通人该怎么试',url:'https://mp.weixin.qq.com/s/c5d3YwNQ5Se2SZHSw_vw7Q'},
